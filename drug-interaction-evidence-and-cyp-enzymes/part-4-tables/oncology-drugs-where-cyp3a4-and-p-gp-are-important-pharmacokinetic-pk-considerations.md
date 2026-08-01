@@ -1,0 +1,53 @@
+---
+description: >-
+  Reference table for oncology drugs with clinically relevant CYP3A4 and
+  P-glycoprotein pharmacokinetic considerations.
+---
+
+# Oncology drugs where CYP3A4 and P‑gp are important pharmacokinetic (PK) considerations
+
+This sheet summarises oncology drugs where CYP3A4 and P‑gp are important pharmacokinetic considerations.
+
+### What's on the table:
+
+**Drug name**\
+The generic name and, in brackets, a common brand name.&#x20;
+
+**Class**\
+The therapeutic class or mechanism category. Examples include CDK4/6 inhibitor, EGFR TKI, PARP inhibitor, VEGFR TKI, SERM, and aromatase inhibitor.&#x20;
+
+**Key metabolic pathways**\
+The main bio-transformation and clearance routes. These include dominant CYP isoenzymes, UGTs, non-CYP mechanisms, and renal or fecal elimination. \
+They highlight where CYP3A4/P-gp-active compounds may change exposure.
+
+**Tmax**\
+Approximate time to maximum plasma concentration after an oral dose. For depot drugs, it is measured after injection. It indicates how quickly a drug peaks and when overlapping exposures may matter most.
+
+**Half-life**\
+Approximate terminal elimination half-life. It indicates persistence and accumulation. Longer half-lives mean greater sensitivity to sustained CYP3A4 inhibition or induction.
+
+**Dose-limiting / key toxicity**\
+The adverse effects that constrain dosing in practice. This is a clinical red-flag column. \
+PK-driven exposure changes can have tangible safety consequences.
+
+### How to use this sheet
+
+Feel free to copy information above about your medicines into personal notes or a treatment journal.
+
+If your drug is not listed, you might ask an AI assistant:
+
+> For \[enter your drug name], can you tell me the:
+>
+> 1. drug class;
+> 2. key metabolic pathways, especially CYP3A4 and transporters;
+> 3. typical Tmax; (initial supplement overlap period of concern)
+> 4. usual half-life; (broader preiod for supplement overlap concern)
+> 5. main dose-limiting or key toxicities?
+
+{% hint style="info" %}
+Not every drug listed is a “pure” CYP3A4 substrate. Some have mixed or minimal CYP3A4 metabolism.
+
+Evidence type for all drugs on this table is Clinical PK and drug label.
+{% endhint %}
+
+<table><thead><tr><th width="130.203125">Drug name</th><th width="97.0234375" align="center">Drug Class</th><th width="137.60546875">Key metabolic pathways</th><th>Evidence type</th><th width="94.93359375">Tmax</th><th width="98.33984375">Half-life</th><th>Dose-limiting / key toxicity</th></tr></thead><tbody><tr><td>Palbociclib (Ibrance)</td><td align="center">CDK4/6 inhibitor</td><td>Mostly metabolized by CYP3A4, with additional metabolism via SULT2A1; minimal renal clearance.</td><td>Clinical PK and FDA label; in vitro metabolism characterization.</td><td>≈ 6 h (range ≈ 3–12 h; food-dependent)</td><td>≈ 29 h (mean ≈ 29 ± 5 h)</td><td>Neutropenia is the main dose-limiting toxicity; leukopenia, anemia, fatigue and GI effects also common.</td></tr><tr><td>Ribociclib (Kisqali)</td><td align="center">CDK4/6 inhibitor</td><td>Hepatic metabolism predominantly via CYP3A4; limited renal clearance.</td><td>Clinical PK and label; in vitro CYP profiling.</td><td>≈ 1–5 h</td><td>≈ 32–36 h</td><td>Neutropenia and other hematologic toxicity; QTc prolongation and hepatotoxicity are major safety signals requiring ECG/LFT monitoring.</td></tr><tr><td>Abemaciclib (Verzenio)</td><td align="center">CDK4/6 inhibitor</td><td>Metabolized via CYP3A4; more lipophilic with broader tissue distribution; minimal renal clearance.</td><td>Clinical PK and label; in vitro metabolism.</td><td>≈ 8 h</td><td>≈ 18–38 h (mean ≈ 18 h)</td><td>GI toxicity (diarrhea) and fatigue are dose-limiting; neutropenia occurs but is less frequent/severe than palbociclib/ribociclib.</td></tr><tr><td>Erlotinib (Tarceva)</td><td align="center">EGFR TKI</td><td>Primarily metabolized by CYP3A4, with contributions from CYP1A2 and CYP2C8; biliary/fecal excretion.</td><td>Clinical PK and label; DDI/safety reviews.</td><td>≈ 4 h</td><td>> 36 h</td><td>Skin rash and diarrhea are characteristic and can be dose-limiting; hepatotoxicity relevant.</td></tr><tr><td>Gefitinib (Iressa)</td><td align="center">EGFR TKI</td><td>Metabolized mainly by CYP3A4 and CYP2D6; fecal excretion.</td><td>Clinical PK and label.</td><td>≈ 3–7 h</td><td>≈ 41 h</td><td>Diarrhea and acneiform rash common; hepatotoxicity can be dose-limiting.</td></tr><tr><td>Osimertinib (Tagrisso)</td><td align="center">EGFR TKI (3rd-gen)</td><td>Mostly metabolized by CYP3A4/5; active metabolites contribute; mainly fecal elimination.</td><td>Clinical PK and label; comparative EGFR-TKI analyses.</td><td>≈ 6 h</td><td>≈ 48–60 h</td><td>Diarrhea, rash, ILD/pneumonitis, QTc prolongation, cardiomyopathy.</td></tr><tr><td>Ibrutinib (Imbruvica)</td><td align="center">BTK inhibitor (covalent)</td><td>Mostly metabolized by CYP3A4; metabolites excreted mainly in feces.</td><td>Clinical PK and label; BTK inhibitor reviews.</td><td>≈ 1–2 h</td><td>≈ 4–6 h</td><td>Bleeding, atrial fibrillation, hypertension, diarrhea.</td></tr><tr><td>Acalabrutinib (Calquence)</td><td align="center">BTK inhibitor</td><td>Metabolized by CYP3A4; greater BTK selectivity.</td><td>Clinical PK and label; comparative BTK reviews.</td><td>≈ 0.5–2 h</td><td>≈ 1–2 h</td><td>Headache, diarrhea, infections, cytopenias; bleeding and CV AEs less frequent than with ibrutinib.</td></tr><tr><td>Zanubrutinib (Brukinsa)</td><td align="center">BTK inhibitor</td><td>Metabolized by CYP3A4; optimized BTK selectivity.</td><td>Clinical PK and label.</td><td>≈ 2 h</td><td>≈ 2–4 h</td><td>Neutropenia, infections, hypertension; bleeding and cytopenias.</td></tr><tr><td>Imatinib (Gleevec)</td><td align="center">BCR-ABL / KIT / PDGFR TKI</td><td>Metabolized mainly by CYP3A4; active metabolite contributes.</td><td>Clinical PK and label; targeted-therapy reviews.</td><td>≈ 2–4 h</td><td>≈ 18 h</td><td>Myelosuppression, edema, GI symptoms, hepatotoxicity.</td></tr><tr><td>Sunitinib (Sutent)</td><td align="center">VEGFR/MET/PDGFR TKI</td><td>Metabolized primarily by CYP3A4 to active metabolite; fecal elimination.</td><td>Clinical PK and label; VEGF-pathway inhibitor reviews.</td><td>≈ 6–12 h</td><td>≈ 40–60 h</td><td>Hypertension, fatigue, hand-foot syndrome, hypothyroidism, hepatotoxicity, cardiac events.</td></tr><tr><td>Sorafenib (Nexavar)</td><td align="center">RAF/VEGFR/PDGFR TKI</td><td>Metabolized mainly by CYP3A4 and UGT1A9; excreted in feces.</td><td>Clinical PK and label.</td><td>≈ 3 h</td><td>≈ 25–48 h</td><td>Hand-foot skin reaction, diarrhea, hypertension, fatigue, rash, hepatotoxicity, cardiac ischemia.</td></tr><tr><td>Dasatinib (Sprycel)</td><td align="center">BCR-ABL / SRC TKI</td><td>Metabolized predominantly by CYP3A4.</td><td>Clinical PK and label.</td><td>≈ 0.5–3 h</td><td>≈ 3–5 h</td><td>Myelosuppression, pleural effusions, bleeding, QTc prolongation.</td></tr><tr><td>Tamoxifen (Nolvadex)</td><td align="center">SERM</td><td>Metabolized by CYP3A4, CYP2D6 and others to active metabolites (endoxifen).</td><td>Clinical PK and label; in vitro CYP studies.</td><td>≈ 4–7 h</td><td>≈ 5–7 days (parent)</td><td>Endometrial cancer risk, venous thromboembolism, hot flushes.</td></tr><tr><td>Anastrozole (Arimidex)</td><td align="center">Aromatase inhibitor</td><td>Metabolized via hepatic phase I/II pathways with minor CYP involvement.</td><td>Clinical PK and label.</td><td>≈ 2 h</td><td>≈ 40–50 h</td><td>Arthralgia, bone density loss/fracture risk, hot flushes.</td></tr><tr><td>Letrozole (Femara)</td><td align="center">Aromatase inhibitor</td><td>Hepatic metabolism mainly via CYP3A4 and CYP2A6; excreted in urine and feces.</td><td>Clinical PK and label.</td><td>≈ 1–2 h</td><td>≈ 48 h</td><td>Arthralgia, bone loss, hypercholesterolemia, hot flushes.</td></tr><tr><td>Fulvestrant (Faslodex)</td><td align="center">SERD (IM)</td><td>Extensive hepatic metabolism mainly via CYP3A4 to inactive metabolites.</td><td>Clinical PK and label.</td><td>Tmax ≈ 7 days (IM)</td><td>≈ 40–50 days</td><td>Injection-site reactions, hepatotoxicity, GI effects.</td></tr><tr><td>Exemestane (Aromasin)</td><td align="center">Steroidal aromatase inhibitor</td><td>Metabolized by CYP3A4 and reduction; metabolites excreted via urine and feces.</td><td>Clinical PK and label.</td><td>≈ 1–2 h</td><td>≈ 24 h</td><td>Hot flushes, arthralgia, fatigue, bone loss.</td></tr><tr><td>Olaparib (Lynparza)</td><td align="center">PARP inhibitor</td><td>Metabolized mostly via CYP3A4; eliminated via urine and feces.</td><td>Clinical PK and label; PARP-inhibitor reviews.</td><td>≈ 1.5–3 h</td><td>≈ 12–15 h</td><td>Anemia, neutropenia, thrombocytopenia, nausea, fatigue; rare MDS/AML.</td></tr><tr><td>Niraparib (Zejula)</td><td align="center">PARP inhibitor</td><td>Metabolized via non-CYP pathways (e.g. carboxylesterases); minor CYP involvement; renal/fecal elimination.</td><td>Clinical PK and label; PARP-inhibitor reviews.</td><td>≈ 3–4 h</td><td>≈ 36–48 h</td><td>Thrombocytopenia, anemia, neutropenia, hypertension, fatigue.</td></tr><tr><td>Talazoparib (Talzenna)</td><td align="center">PARP inhibitor</td><td>Limited metabolism; excreted primarily unchanged; minor CYP involvement.</td><td>Clinical PK and label; PARP-inhibitor reviews.</td><td>≈ 2 h</td><td>≈ 90 h</td><td>Anemia, other cytopenias, fatigue, nausea.</td></tr><tr><td>Rucaparib (Rubraca)</td><td align="center">PARP inhibitor</td><td>Metabolized by CYP2D6 and CYP1A2 with contributions from CYP3A4; renal/fecal excretion.</td><td>Clinical PK and label; PARP-inhibitor reviews.</td><td>≈ 1.5–3 h</td><td>≈ 17–20 h</td><td>Nausea, fatigue, elevated liver enzymes, cytopenias.</td></tr><tr><td>Bevacizumab (Avastin)</td><td align="center">Anti-VEGF mAb</td><td>Proteolytic catabolism; not CYP-metabolized; IV administration.</td><td>Clinical PK and label; VEGF-targeted therapy reviews.</td><td>Peak at end of infusion</td><td>≈ 20 days</td><td>Hypertension, proteinuria, bleeding, GI perforation, impaired wound healing, thromboembolism.</td></tr><tr><td>Axitinib (Inlyta)</td><td align="center">VEGFR TKI</td><td>Metabolized primarily by CYP3A4/5, with contributions from CYP1A2, CYP2C19, UGT1A1.</td><td>Clinical PK and label; VEGF-inhibitor reviews.</td><td>≈ 2.5–4 h</td><td>≈ 2.5–6 h</td><td>Hypertension, diarrhea, fatigue, hand-foot syndrome; hypertensive crises/thromboembolism.</td></tr><tr><td>Pazopanib (Votrient)</td><td align="center">VEGFR/PDGFR TKI</td><td>Metabolized mainly by CYP3A4 with minor CYP1A2/CYP2C8 involvement.</td><td>Clinical PK and label; VEGF-pathway reviews.</td><td>≈ 2–4 h</td><td>≈ 30 h</td><td>Hepatotoxicity, hypertension, diarrhea, hair color changes.</td></tr></tbody></table>
