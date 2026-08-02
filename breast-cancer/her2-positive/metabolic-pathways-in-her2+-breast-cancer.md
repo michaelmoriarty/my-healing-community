@@ -457,7 +457,7 @@ Some cancers depend heavily on glutamine. Triple-negative breast cancer is a lea
 
 Two distinct routes may increase glutamine dependence in HER2-positive tumours. Either route may occur alone. Both may occur in the same tumour.
 
-_Flowchart: two independent routes to glutamine dependence in HER2-positive breast cancer. Insert the supplied PNG here._
+![](../../.gitbook/assets/glutamine_macropinocytosis_flowchart.png)
 
 #### Two independent routes to glutamine dependency
 
@@ -569,11 +569,11 @@ The newly approved PATINA regimen adds palbociclib to HER2-targeted maintenance 
 NCT03774472 used hydroxychloroquine 800 mg daily. This exceeds the chronic-dose threshold in current ophthalmology guidance. Ask the prescribing clinician about baseline and ongoing retinal screening.
 {% endhint %}
 
-**What we do not know:**&#x20;
+**What we do not know:**
 
-Autophagy inhibition has not been tested alongside trastuzumab deruxtecan or neratinib.&#x20;
+Autophagy inhibition has not been tested alongside trastuzumab deruxtecan or neratinib.
 
-GSDMB measurement has not been validated for selecting patients.&#x20;
+GSDMB measurement has not been validated for selecting patients.
 
 Palbociclib-triggered autophagy escape remains untested in triple-positive disease.
 
@@ -589,7 +589,7 @@ In triple-negative models, complete SLC1A5 deletion increased macropinocytosis f
 
 Autophagy blockade can also activate macropinocytosis through NRF2 signalling. Blocking one survival route may therefore activate another.
 
-**What we do not know:**&#x20;
+**What we do not know:**
 
 Macropinocytosis has not been measured directly in HER2-positive breast cancer during treatment. Its relevance here is inferred from shared signalling biology.
 
