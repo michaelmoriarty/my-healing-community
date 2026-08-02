@@ -459,7 +459,7 @@ Two distinct routes may increase glutamine dependence in HER2-positive tumours. 
 
 <figure><img src="../../.gitbook/assets/glutamine_macropinocytosis_flowchart.png" alt=""><figcaption><p>Two distinct routes to glutamine dependence in HER2+ tumours.</p></figcaption></figure>
 
-#### Two independent routes to glutamine dependency
+#### Two independent routes to glutamine dependence
 
 * **Route 1** runs through the EphA2 receptor. It does not require active treatment.
 * **Route 2** starts after HER2-targeted therapy suppresses mTOR signalling.
