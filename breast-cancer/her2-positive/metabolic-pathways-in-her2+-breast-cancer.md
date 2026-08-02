@@ -499,7 +499,7 @@ In EphA2-high laboratory models, the GLS inhibitor CB-839, also called telaglena
 
 High EphA2 expression also correlates with shorter survival in HER2-positive breast cancer. However, HER2 status alone does not determine metabolic behaviour.
 
-One early study found little GLS-inhibitor activity in typical hormone-receptor-positive HER2-positive models. It showed activity in a HER2-positive line with triple-negative-like metabolism. This does not establish that ER-negative HER2-positive tumours behave like triple-negative disease.
+One early study found little GLS-inhibitor activity in typical hormone-receptor-positive HER2-positive models. It showed activity in a HER2-positive line with triple-negative-like metabolism. However, this does not establish that ER-negative HER2-positive tumours behave like triple-negative disease.
 
 #### Why GLS blockers may underperform
 
@@ -515,7 +515,10 @@ GDH converts glutamate into α-ketoglutarate. This molecule feeds the cell’s c
 
 GDH has not been directly tested in the EphA2 pathway. Its inclusion reflects its downstream metabolic position. It does not show a demonstrated EphA2 connection.
 
-GDH can promote tumours in several cancer types. In breast cancer, available findings are mixed. High GDH had favourable associations in some low-grade, hormone-receptor-positive and triple-negative disease. HER2-positive tumours showed no significant association.
+* GDH can promote tumours in several cancer types.
+* Breast cancer findings are mixed:
+  * High GDH had favourable associations in some low-grade, hormone-receptor-positive, and triple-negative disease.
+  * HER2-positive tumours showed no significant association.
 
 **What we do not know:** GDH’s role in HER2-positive breast cancer remains untested.
 
@@ -540,29 +543,39 @@ HER2-positive breast-cancer cells chronically exposed to trastuzumab develop ele
 
 This response can occur early. A neoadjuvant trastuzumab study found increased autophagy markers after one treatment cycle. A similar resistance pattern was later shown with T-DM1.
 
-Autophagy-driven resistance has not been tested with trastuzumab deruxtecan or neratinib. It should not be assumed.
+Autophagy-driven resistance has not been tested with trastuzumab deruxtecan or neratinib. It should not be assumed but is mechanistically plausible.
 
-GSDMB provides an additional HER2-positive-specific signal. It sits next to HER2 on the chromosome. It is frequently co-amplified with HER2. GSDMB promotes a specific autophagy step. High co-expression of GSDMB and downstream partners correlated with relapse.
+GSDMB provides an additional HER2-positive-specific signal:
+
+* GSDMB sits next to HER2 on the chromosome and is frequently co-amplified with HER2.
+* GSDMB promotes a specific autophagy step.
+* High co-expression of GSDMB and downstream partners correlated with relapse.
 
 {% hint style="warning" %}
-Autophagy blockade is not automatically beneficial in every setting. One laboratory study found that potent bafilomycin impaired trastuzumab-supported immune killing. Hydroxychloroquine has not been tested for this effect. Discuss any autophagy-blocking strategy with the prescribing oncology team.
+Autophagy blockade is not automatically beneficial in every setting. One laboratory study found that a potent autophagy blocker called bafilomycin impaired trastuzumab-supported immune killing. Hydroxychloroquine has not been tested for this effect. Discuss any autophagy-blocking strategy with the prescribing oncology team.
 {% endhint %}
 
 #### Clinical evidence and safety
 
-The CLEVER trial tested hydroxychloroquine plus everolimus in high-risk early-stage breast-cancer survivors. It included HER2-positive participants with detectable dormant tumour cells in bone marrow. At five years, every HER2-positive participant across treatment arms remained recurrence-free.
+The CLEVER trial tested hydroxychloroquine plus everolimus in high-risk early-stage breast-cancer survivors. It included HER2-positive participants with detectable dormant tumour cells in bone marrow. _At five years, every HER2-positive participant across treatment arms remained recurrence-free._
 
-This was a small early-phase trial. It is promising, not standard care.
+This was a small early-phase trial. It is promising, but not standard care.
 
-A Phase I trial, NCT03774472, studied palbociclib, letrozole, and hydroxychloroquine in metastatic ER-positive/HER2-negative disease. It found that palbociclib could trigger autophagy escape. Two participants had substantial tumour shrinkage for nearly 300 days.
+A Phase I trial, NCT03774472, studied palbociclib, letrozole, and hydroxychloroquine in metastatic ER-positive/HER2-negative disease. It found that palbociclib could trigger autophagy escape, which hydroxychloroquine blocked. _Two participants had substantial tumour shrinkage for nearly 300 days._
 
-PATINA adds palbociclib to HER2-targeted maintenance treatment for HR-positive/HER2-positive metastatic disease. Whether the same autophagy escape occurs in triple-positive disease remains unknown.
+The newly approved PATINA regimen adds palbociclib to HER2-targeted maintenance treatment for HR-positive/HER2-positive metastatic disease. _Whether the same autophagy escape occurs in triple-positive disease remains unknown._
 
 {% hint style="warning" %}
 NCT03774472 used hydroxychloroquine 800 mg daily. This exceeds the chronic-dose threshold in current ophthalmology guidance. Ask the prescribing clinician about baseline and ongoing retinal screening.
 {% endhint %}
 
-**What we do not know:** Autophagy inhibition has not been tested alongside trastuzumab deruxtecan or neratinib. GSDMB measurement has not been validated for selecting patients. Palbociclib-triggered autophagy escape remains untested in triple-positive disease.
+**What we do not know:**&#x20;
+
+Autophagy inhibition has not been tested alongside trastuzumab deruxtecan or neratinib.&#x20;
+
+GSDMB measurement has not been validated for selecting patients.&#x20;
+
+Palbociclib-triggered autophagy escape remains untested in triple-positive disease.
 
 Sources: Vázquez-Martín et al., 2009; Koukourakis et al., 2014; Zhang et al., 2021; Gámez-Chiachio et al., 2022; Bede et al., 2025; DeMichele et al., 2025, 2026; Raghavendra et al., 2025; Loibl et al., 2026
 
