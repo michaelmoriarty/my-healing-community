@@ -589,7 +589,9 @@ In triple-negative models, complete SLC1A5 deletion increased macropinocytosis f
 
 Autophagy blockade can also activate macropinocytosis through NRF2 signalling. Blocking one survival route may therefore activate another.
 
-**What we do not know:** Macropinocytosis has not been measured directly in HER2-positive breast cancer during treatment. Its relevance here is inferred from shared signalling biology.
+**What we do not know:**&#x20;
+
+Macropinocytosis has not been measured directly in HER2-positive breast cancer during treatment. Its relevance here is inferred from shared signalling biology.
 
 Sources: Wahi et al., 2024; Su et al., 2021
 
@@ -609,11 +611,11 @@ PSMD3, a proteasome component, can stabilise HER2 directly. Lowering PSMD3 desta
 
 This supports further investigation of proteasome-targeting approaches. It does not establish an effective HER2-positive treatment strategy.
 
-#### Apigenin: a combination hypothesis
+#### Apigenin: a combination hypothesis with a caution
 
-Apigenin has proteasome-inhibiting activity. In one laboratory study, it also triggered protective autophagy in breast-cancer cells. Blocking that autophagy increased apigenin’s cell-killing effect.
+Apigenin has proteasome-inhibiting activity. However, in one laboratory study, it also triggered protective autophagy in breast-cancer cells. Blocking that autophagy increased apigenin’s cell-killing effect.
 
-Pairing apigenin with an autophagy blocker remains a hypothesis. Hydroxychloroquine was not tested in that study.
+Pairing apigenin with Hydroxychloroquine or Withaferin A remains a hypothesis. A different laboratory compound, not Hydroxychloroquine, was tested in that study.
 
 Sources: Revalde et al., 2017; Fararjeh et al., 2019; Cao et al., 2013
 
