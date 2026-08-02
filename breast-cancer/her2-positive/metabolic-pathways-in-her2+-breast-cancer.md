@@ -52,7 +52,7 @@ Keep evidence limits in view. Many proposed adjunctive strategies remain preclin
 
 Jump to a topic:
 
-[The cancer phenotype](metabolic-pathways-in-her2+-breast-cancer.md#the-concept-of-metabolic-pathways-and-the-cancer-phenotype) · [HER2 signalling](metabolic-pathways-in-her2+-breast-cancer.md#the-big-picture-driving-her2-breast-cancer-pi3kaktmtor) · [ER status](metabolic-pathways-in-her2+-breast-cancer.md#the-importance-of-er-status-in-a-her2-breast-cancer) · [Repurposed drugs and natural substances](metabolic-pathways-in-her2+-breast-cancer.md#repurposed-drugs-and-natural-substances-shift-treatment-effectiveness-and-disease-resistance) · [Glucose pathways](metabolic-pathways-in-her2+-breast-cancer.md#glucose-pathwaysher2-as-a-glycolytic-phenotype) · Fatty acid pathways and lipid metabolism · Glutamine pathways and autophagy · Strategies targeting multiple metabolic pathways · What we still don’t know
+[The cancer phenotype](metabolic-pathways-in-her2+-breast-cancer.md#the-concept-of-metabolic-pathways-and-the-cancer-phenotype) · [HER2 signalling](metabolic-pathways-in-her2+-breast-cancer.md#the-big-picture-driving-her2-breast-cancer-pi3kaktmtor) · [ER status](metabolic-pathways-in-her2+-breast-cancer.md#the-importance-of-er-status-in-a-her2-breast-cancer) · [Repurposed drugs and natural substances](metabolic-pathways-in-her2+-breast-cancer.md#repurposed-drugs-and-natural-substances-shift-treatment-effectiveness-and-disease-resistance) · [Glucose pathways](metabolic-pathways-in-her2+-breast-cancer.md#glucose-pathwaysher2-as-a-glycolytic-phenotype) · Fatty acid pathways and lipid metabolism · [Glutamine pathways and related mechanisms](metabolic-pathways-in-her2+-breast-cancer.md#glutamine-pathways-and-related-mechanisms) · Strategies targeting multiple metabolic pathways · What we still don’t know
 
 ## Part two: Creating your personalized metabolic blocking protocol
 
@@ -154,7 +154,7 @@ A fully referenced summary is available for integrative cancer practitioners and
 
 ### Glucose Transporters (GLUTs)
 
-#### <mark style="color:$danger;">Priority for HER2+:  HIGH</mark>
+#### <mark style="color:$danger;">Priority for HER2+: HIGH</mark>
 
 Before a HER2+ cancer cell can run on glucose, it first has to get glucose across its outer membrane — and it uses two different transporter proteins to do that, each with a different job.
 
@@ -181,7 +181,7 @@ Sources: Wellberg et al., 2016; Madoz-Gúrpide et al., 2025; Liu et al., 2022
 
 ### Hexokinase II (HK2)
 
-#### <mark style="color:$danger;">Priority for HER2+:  HIGH</mark>
+#### <mark style="color:$danger;">Priority for HER2+: HIGH</mark>
 
 Once glucose gets inside a HER2+ cancer cell, HK2 is the enzyme that “traps” it — chemically tagging the glucose so it can't leave the cell and is committed to being burned for fuel. But HK2 does something else that matters just as much for cancer: it also helps the cell dodge its own built-in self-destruct signal.
 
@@ -223,7 +223,7 @@ Sources: Patra et al., 2013; Laughner et al., 2001; Pan et al., 2024; Smith et a
 
 ### The Pentose Phosphate Pathway (PPP)
 
-#### <mark style="color:$danger;">Priority for HER2+:  HIGH</mark>
+#### <mark style="color:$danger;">Priority for HER2+: HIGH</mark>
 
 Some glucose entering a HER2+ cancer cell enters the pentose phosphate pathway (PPP). This pathway supports DNA and RNA production. It also creates protection against oxidative stress.
 
@@ -265,7 +265,7 @@ Sources: Mele et al., 2019; Wang et al., 2024; Min et al., 2022
 
 ### PFKFB3/PFKFB4
 
-#### <mark style="color:$danger;">Priority for HER2+:  HIGH</mark>
+#### <mark style="color:$danger;">Priority for HER2+: HIGH</mark>
 
 PFKFB3 is a regulatory switch that controls the speed of glycolysis. It produces a molecule that activates PFK-1, a key rate-limiting glycolysis enzyme.
 
@@ -293,7 +293,7 @@ Sources: O'Neal et al., 2016; Yao et al., 2022; Egelberg et al., 2025
 
 ### Pyruvate Kinase M2 (PKM2)
 
-#### <mark style="color:$warning;">Priority for HER2+:  UNKNOWN</mark>
+#### <mark style="color:$warning;">Priority for HER2+: UNKNOWN</mark>
 
 PKM2 catalyses glycolysis's final step. Cancer cells benefit when PKM2 works less efficiently.
 
@@ -313,7 +313,7 @@ Sources: General PKM2/HIF-1α mechanism; HER2-specific connection is inferential
 
 ### Lactate Dehydrogenase A (LDHA)
 
-#### <mark style="color:$danger;">Priority for HER2+:  HIGH</mark>
+#### <mark style="color:$danger;">Priority for HER2+: HIGH</mark>
 
 LDHA converts glycolysis's end product into lactic acid. This step keeps rapid glycolysis running.
 
@@ -339,7 +339,7 @@ Sources: Zhao et al., 2011
 
 ### Monocarboxylate Transporter 4 (MCT4)
 
-#### <mark style="color:$warning;">Priority for HER2+:  UNKNOWN</mark>
+#### <mark style="color:$warning;">Priority for HER2+: UNKNOWN</mark>
 
 MCT4 exports lactic acid from glycolytic cancer cells. This prevents acid buildup inside the cell.
 
@@ -363,7 +363,7 @@ GLUT1/GLUT4, HK2, PPP/G6PD, PFKFB3, PKM2, LDHA, and MCT4 are individual proteins
 
 #### HIF-1α: A master switch behind several pathways
 
-#### <mark style="color:$danger;">Priority for HER2+:  HIGH</mark>
+#### <mark style="color:$danger;">Priority for HER2+: HIGH</mark>
 
 HIF-1α influences GLUT1, HK2, PFKFB3, PKM2, and LDHA.
 
@@ -381,7 +381,7 @@ Sources: Li et al., 2005
 
 #### Insulin and IGF-1 signalling
 
-#### <mark style="color:$warning;">Priority for HER2+:  MIXED, MAY DEPEND ON BMI</mark>
+#### <mark style="color:$warning;">Priority for HER2+: MIXED, MAY DEPEND ON BMI</mark>
 
 Insulin and IGF-1 can activate the same PI3K/AKT/mTOR wiring as HER2.
 
@@ -398,7 +398,7 @@ Sources: Luo et al., 2021; Rediti et al., 2024
 
 #### c-Myc
 
-#### <mark style="color:$warning;">Priority for HER2+:  UNKNOWN</mark>
+#### <mark style="color:$warning;">Priority for HER2+: UNKNOWN</mark>
 
 c-Myc directly activates genes for several glycolytic proteins. It operates through a different route than HIF-1α.
 
@@ -414,7 +414,7 @@ Sources: Osthus et al., 2000; Dang et al., 2009; Kleszcz et al., 2018; Lin et al
 
 #### TNF-α: An inflammatory driver of glycolysis
 
-#### <mark style="color:$warning;">Priority for HER2+:  UNKNOWN</mark>
+#### <mark style="color:$warning;">Priority for HER2+: UNKNOWN</mark>
 
 TNF-α is an inflammatory signal released by immune cells.
 
@@ -430,7 +430,7 @@ Sources: Vaughan et al., 2013
 
 ### What about OXPHOS in ER+HER2+ breast cancer?
 
-#### <mark style="color:$warning;">Priority for HER2+:  MIXED, NOT FOR ENERGY BUT INFUENCES CELL DEATH</mark>
+#### <mark style="color:$warning;">Priority for HER2+: MIXED, NOT FOR ENERGY BUT INFUENCES CELL DEATH</mark>
 
 OXPHOS generates energy in mitochondria. Glycolysis occurs in the cell fluid. Cells can use both pathways.
 
@@ -449,9 +449,170 @@ Sources: Tapia et al., 2024; Gale et al., 2020; El-Botty et al., 2023
 
 _Placeholder for future addition._
 
-### Glutamine pathways and autophagy
+### Glutamine pathways and related mechanisms
 
-_Placeholder for future addition._
+Glutamine is the most abundant amino acid in the bloodstream. Cancer cells use it for fuel, DNA and RNA building blocks, and glutathione production.
+
+Some cancers depend heavily on glutamine. Triple-negative breast cancer is a leading example. HER2-positive disease is different from triple negative because its glutamine dependence is conditional, rather than universal.
+
+Two distinct routes may increase glutamine dependence in HER2-positive tumours. Either route may occur alone. Both may occur in the same tumour.
+
+_Flowchart: two independent routes to glutamine dependence in HER2-positive breast cancer. Insert the supplied PNG here._
+
+#### Two independent routes to glutamine dependency
+
+* **Route 1** runs through the EphA2 receptor. It does not require active treatment.
+* **Route 2** starts after HER2-targeted therapy suppresses mTOR signalling.
+
+Route 2 can activate autophagy. Glutamine limitation or autophagy blockade can then activate macropinocytosis.
+
+### Route 1: The EphA2 pathway
+
+#### What is EphA2?
+
+EphA2 is a cell-surface receptor found alongside HER2. It is overexpressed in many invasive breast cancers. It is more common in ER-positive than ER-negative disease.
+
+Under normal conditions, ephrin-A1 acts as EphA2’s brake. Ephrin-A1 binding pulls EphA2 into the cell for breakdown. Reduced ephrin-A1 leaves EphA2 continuously active.
+
+Active EphA2 can promote:
+
+* Invasion and blood-vessel growth.
+* Greater glutamine dependence.
+* Treatment resistance.
+
+In trastuzumab-resistant HER2-positive models:
+
+* EphA2 levels were elevated.
+* Raising EphA2 alone caused resistance.
+
+EphA2 also links to lower tamoxifen sensitivity in ER-positive disease. An EphA2-high tumour may therefore develop resistance across several fronts. This includes anti-HER2 treatment, endocrine treatment, and glutamine metabolism.
+
+#### GLS and SLC1A5
+
+SLC1A5, also called ASCT2, transports glutamine into the cell. GLS, or glutaminase, converts glutamine into glutamate. This is the first rate-limiting glutamine-breakdown step.
+
+Active EphA2 increases both SLC1A5 and GLS. It uses separate internal signalling routes to do so. The result is greater glutamine uptake and processing.
+
+#### Why this matters for HER2-targeted drugs
+
+In EphA2-high laboratory models, the GLS inhibitor CB-839, also called telaglenastat, slowed tumour growth. EphA2-high HER2-positive cells were more sensitive than EphA2-low cells. This applied in cell culture and animal models.
+
+High EphA2 expression also correlates with shorter survival in HER2-positive breast cancer. However, HER2 status alone does not determine metabolic behaviour.
+
+One early study found little GLS-inhibitor activity in typical hormone-receptor-positive HER2-positive models. It showed activity in a HER2-positive line with triple-negative-like metabolism. This does not establish that ER-negative HER2-positive tumours behave like triple-negative disease.
+
+#### Why GLS blockers may underperform
+
+Clinical GLS-inhibitor trials have not produced positive results. Laboratory work suggests one explanation. Some glutamine-dependent cells bypass blocked GLS through PSAT1. This pathway creates the same downstream fuel through a different route.
+
+{% hint style="warning" %}
+PSAT1 adaptation has been shown in triple-negative breast cancer cells. It has not been shown in HER2-positive models. No HER2-positive-specific GLS-inhibitor trial has been completed.
+{% endhint %}
+
+#### GDH: a downstream enzyme
+
+GDH converts glutamate into α-ketoglutarate. This molecule feeds the cell’s core energy-producing cycle.
+
+GDH has not been directly tested in the EphA2 pathway. Its inclusion reflects its downstream metabolic position. It does not show a demonstrated EphA2 connection.
+
+GDH can promote tumours in several cancer types. In breast cancer, available findings are mixed. High GDH had favourable associations in some low-grade, hormone-receptor-positive and triple-negative disease. HER2-positive tumours showed no significant association.
+
+**What we do not know:** GDH’s role in HER2-positive breast cancer remains untested.
+
+Sources: Youngblood et al., 2016; Zhuang et al., 2010; Edwards et al., 2017; Gökmen-Polar et al., 2011; Lu et al., 2003; Gross et al., 2014; Qiu et al., 2024; Zhang et al., 2016; Yin et al., 2022; Craze et al., 2019
+
+### Route 2: The treatment-triggered stress response
+
+Route 2 is not a glutamine-processing step. It is a survival response to metabolic stress from HER2-targeted therapy.
+
+1. Active HER2 signalling keeps mTOR switched on. Active mTOR suppresses autophagy.
+2. HER2-targeted therapy can lower mTOR activity. This removes autophagy suppression.
+3. The cancer cell activates autophagy. It recycles internal components under treatment pressure.
+4. Glutamine limitation or p62/NRF2 signalling can activate macropinocytosis. This provides an alternative nutrient supply.
+
+Autophagy and macropinocytosis are included here because they share this mTOR context. Neither is a direct glutamine-processing step.
+
+### Autophagy: a primary resistance mechanism
+
+#### Why this matters for HER2-targeted drugs
+
+HER2-positive breast-cancer cells chronically exposed to trastuzumab develop elevated autophagy. In laboratory studies, chloroquine blocked autophagy and restored trastuzumab sensitivity.
+
+This response can occur early. A neoadjuvant trastuzumab study found increased autophagy markers after one treatment cycle. A similar resistance pattern was later shown with T-DM1.
+
+Autophagy-driven resistance has not been tested with trastuzumab deruxtecan or neratinib. It should not be assumed.
+
+GSDMB provides an additional HER2-positive-specific signal. It sits next to HER2 on the chromosome. It is frequently co-amplified with HER2. GSDMB promotes a specific autophagy step. High co-expression of GSDMB and downstream partners correlated with relapse.
+
+{% hint style="warning" %}
+Autophagy blockade is not automatically beneficial in every setting. One laboratory study found that potent bafilomycin impaired trastuzumab-supported immune killing. Hydroxychloroquine has not been tested for this effect. Discuss any autophagy-blocking strategy with the prescribing oncology team.
+{% endhint %}
+
+#### Clinical evidence and safety
+
+The CLEVER trial tested hydroxychloroquine plus everolimus in high-risk early-stage breast-cancer survivors. It included HER2-positive participants with detectable dormant tumour cells in bone marrow. At five years, every HER2-positive participant across treatment arms remained recurrence-free.
+
+This was a small early-phase trial. It is promising, not standard care.
+
+A Phase I trial, NCT03774472, studied palbociclib, letrozole, and hydroxychloroquine in metastatic ER-positive/HER2-negative disease. It found that palbociclib could trigger autophagy escape. Two participants had substantial tumour shrinkage for nearly 300 days.
+
+PATINA adds palbociclib to HER2-targeted maintenance treatment for HR-positive/HER2-positive metastatic disease. Whether the same autophagy escape occurs in triple-positive disease remains unknown.
+
+{% hint style="warning" %}
+NCT03774472 used hydroxychloroquine 800 mg daily. This exceeds the chronic-dose threshold in current ophthalmology guidance. Ask the prescribing clinician about baseline and ongoing retinal screening.
+{% endhint %}
+
+**What we do not know:** Autophagy inhibition has not been tested alongside trastuzumab deruxtecan or neratinib. GSDMB measurement has not been validated for selecting patients. Palbociclib-triggered autophagy escape remains untested in triple-positive disease.
+
+Sources: Vázquez-Martín et al., 2009; Koukourakis et al., 2014; Zhang et al., 2021; Gámez-Chiachio et al., 2022; Bede et al., 2025; DeMichele et al., 2025, 2026; Raghavendra et al., 2025; Loibl et al., 2026
+
+### Macropinocytosis: a backup fuel line
+
+Macropinocytosis lets a cell engulf extracellular fluid and protein debris. It then breaks this material down for nutrients. It is a scavenging response when usual fuel supplies are constrained.
+
+PI3K signalling can activate macropinocytosis. Because HER2 drives PI3K signalling, HER2-positive tumours may be primed to use this route under stress.
+
+In triple-negative models, complete SLC1A5 deletion increased macropinocytosis five- to ten-fold. This preserved intracellular glutamine and growth. Partial transporter reduction did not cause this response.
+
+Autophagy blockade can also activate macropinocytosis through NRF2 signalling. Blocking one survival route may therefore activate another.
+
+**What we do not know:** Macropinocytosis has not been measured directly in HER2-positive breast cancer during treatment. Its relevance here is inferred from shared signalling biology.
+
+Sources: Wahi et al., 2024; Su et al., 2021
+
+### Related cellular disposal mechanisms
+
+#### Nucleoside salvage
+
+Nucleoside salvage is a backup route for building DNA and RNA. New nucleotide production normally needs glutamine-derived nitrogen. When glutamine is scarce, cells can recycle extracellular nucleosides. Nearby dying tumour cells may provide this material.
+
+The rationale for blocking this route is mechanism-only. It has not been tested directly against tumour growth.
+
+#### Proteasomes
+
+Proteasomes dispose of damaged and unwanted proteins. They also remove proteins that might otherwise trigger cell death.
+
+PSMD3, a proteasome component, can stabilise HER2 directly. Lowering PSMD3 destabilised HER2 and caused cell death in HER2-positive models. Higher PSMD3 predicted worse survival.
+
+This supports further investigation of proteasome-targeting approaches. It does not establish an effective HER2-positive treatment strategy.
+
+#### Apigenin: a combination hypothesis
+
+Apigenin has proteasome-inhibiting activity. In one laboratory study, it also triggered protective autophagy in breast-cancer cells. Blocking that autophagy increased apigenin’s cell-killing effect.
+
+Pairing apigenin with an autophagy blocker remains a hypothesis. Hydroxychloroquine was not tested in that study.
+
+Sources: Revalde et al., 2017; Fararjeh et al., 2019; Cao et al., 2013
+
+### Glutamine dependency in triple-positive disease
+
+No study has directly measured glutamine use by triple-positive tumours. The following points are informed inferences.
+
+ER and HER2 can influence each other. One resistant-cell model linked this crosstalk to c-MYC activation and higher glutamine-transporter levels. The model did not reflect typical HER2-driven triple-positive disease.
+
+EphA2 is more often overexpressed in ER-positive than ER-negative tumours. If this pattern applies to triple-positive disease, the EphA2 route may be especially relevant.
+
+Sources: Chen et al., 2015; Pan, 2005
 
 ### Strategies targeting multiple metabolic pathways
 
@@ -541,6 +702,54 @@ Most evidence remains preclinical. It may come from HER2+ cell lines, other brea
 _\[General resource to be added.]_
 
 ### References
+
+Bede, Á. M., et al. (2025). The autophagy inhibitor bafilomycin inhibits antibody-dependent natural killer cell-mediated killing of breast carcinoma cells. _International Journal of Molecular Sciences, 26_(4), 1533. https://doi.org/10.3390/ijms26041533
+
+Cao, X., et al. (2013). Autophagy inhibition enhances apigenin-induced apoptosis in human breast cancer cells. _Chinese Journal of Cancer Research, 25_(2), 212–222. https://doi.org/10.3978/j.issn.1000-9604.2013.04.01
+
+Chen, Z., Wang, Y., Warden, C., & Chen, S. (2015). Cross-talk between ER and HER2 regulates c-MYC-mediated glutamine metabolism in aromatase inhibitor resistant breast cancer cells. _Journal of Steroid Biochemistry and Molecular Biology, 149_, 118–127. https://doi.org/10.1016/j.jsbmb.2015.02.004
+
+Craze, M. L., et al. (2019). Glutamate dehydrogenase (GLUD1) expression in breast cancer. _Breast Cancer Research and Treatment, 174_(1), 79–91. https://doi.org/10.1007/s10549-018-5060-z
+
+DeMichele, A., et al. (2025). Targeting dormant tumor cells to prevent recurrent breast cancer: A randomized phase 2 trial. _Nature Medicine, 31_(10), 3464–3474. https://doi.org/10.1038/s41591-025-03877-3
+
+Edwards, D. N., et al. (2017). EphA2 promotes glutamine metabolism through YAP and TAZ. _Science Signaling, 10_(508), eaan4667. https://doi.org/10.1126/scisignal.aan4667
+
+Fararjeh, A. S., et al. (2019). PSMD3 regulates breast cancer by stabilizing HER2 from degradation. _Cancers, 11_(4), 527. https://doi.org/10.3390/cancers11040527
+
+Gámez-Chiachio, M., et al. (2022). Gasdermin B over-expression induces protective autophagy in HER2-targeted therapy resistance. _Journal of Experimental & Clinical Cancer Research, 41_, 292. https://doi.org/10.1186/s13046-022-02506-y
+
+Gökmen-Polar, Y., et al. (2011). Dual targeting of EphA2 and ER restores tamoxifen sensitivity. _Breast Cancer Research and Treatment, 127_(2), 375–384. https://doi.org/10.1007/s10549-010-1004-y
+
+Gross, M. I., et al. (2014). Antitumor activity of the glutaminase inhibitor CB-839 in triple-negative breast cancer. _Molecular Cancer Therapeutics, 13_(4), 890–901. https://doi.org/10.1158/1535-7163.MCT-13-0870
+
+Koukourakis, M. I., et al. (2014). Neoadjuvant analysis identifies a role for autophagy in trastuzumab resistance. _British Journal of Cancer, 110_(9), 2209–2216. https://doi.org/10.1038/bjc.2014.196
+
+Loibl, S., et al. (2026). Trastuzumab deruxtecan in residual HER2-positive early breast cancer. _New England Journal of Medicine, 394_(9), 845–857. https://doi.org/10.1056/NEJMoa2514661
+
+Lu, M., et al. (2003). EphA2 overexpression decreases estrogen dependence and tamoxifen sensitivity. _Cancer Research, 63_(12), 3425–3429.
+
+Pan, M. (2005). Overexpression of EphA2 gene in invasive human breast cancer and its association with hormone receptor status. _Journal of Clinical Oncology, 23_(16 Suppl.), Abstract 9583. https://doi.org/10.1200/jco.2005.23.16\_suppl.9583
+
+Qiu, Y., et al. (2024). PSAT1 mediates metabolic adaptation to glutamine blockade. _Nature Metabolism, 6_(8), 1529–1548. https://doi.org/10.1038/s42255-024-01104-w
+
+Raghavendra, A. S., et al. (2025). Hydroxychloroquine to enhance palbociclib and letrozole efficacy in ER-positive/HER2-negative breast cancer. _NPJ Breast Cancer, 11_, 7. https://doi.org/10.1038/s41523-025-00722-1
+
+Revalde, J. L., et al. (2017). Curcumin and its analogue inhibited ENT1 in pancreatic cancer cells. _European Journal of Pharmacology, 803_, 167–173. https://doi.org/10.1016/j.ejphar.2017.03.055
+
+Su, H., et al. (2021). Cancer cells escape autophagy inhibition via NRF2-induced macropinocytosis. _Cancer Cell, 39_(5), 678–693. https://doi.org/10.1016/j.ccell.2021.02.016
+
+Vázquez-Martín, A., Oliveras-Ferraros, C., & Menendez, J. A. (2009). Autophagy facilitates trastuzumab resistance. _PLoS ONE, 4_(7), e6251. https://doi.org/10.1371/journal.pone.0006251
+
+Wahi, K., et al. (2024). Macropinocytosis mediates resistance to loss of glutamine transport in triple-negative breast cancer. _The EMBO Journal, 43_(23), 5857–5882. https://doi.org/10.1038/s44318-024-00271-6
+
+Youngblood, V. M., et al. (2016). The ephrin-A1/EPHA2 axis regulates glutamine metabolism in HER2-positive breast cancer. _Cancer Research, 76_(7), 1825–1836. https://doi.org/10.1158/0008-5472.CAN-15-0847
+
+Zhang, J., et al. (2016). GDH regulates bioenergetics and redox homeostasis in human glioma. _Oncotarget, 7_(9), 8674–8685. https://doi.org/10.18632/oncotarget.7657
+
+Zhang, J., et al. (2021). Targeting autophagy promoted antitumor effects of T-DM1 in HER2-positive gastric cancer. _Cell Death & Disease, 12_, 240. https://doi.org/10.1038/s41419-021-03535-7
+
+Zhuang, G., et al. (2010). EphA2 elevation mediates resistance to trastuzumab therapy. _Cancer Research, 70_(1), 299–308. https://doi.org/10.1158/0008-5472.CAN-09-1845
 
 Chen, Y., Zhang, J., Zhang, M., Song, Y., Zhang, Y., Fan, S., Ren, S., Fu, L., Zhang, N., Hui, H., & Shen, X. (2021). Baicalein resensitizes tamoxifen-resistant breast cancer cells by reducing aerobic glycolysis and reversing mitochondrial dysfunction via inhibition of hypoxia-inducible factor-1α. _Clinical and Translational Medicine, 11_(11), e577. https://doi.org/10.1002/ctm2.577
 
