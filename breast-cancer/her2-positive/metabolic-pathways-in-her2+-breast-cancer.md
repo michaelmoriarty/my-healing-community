@@ -457,7 +457,7 @@ Some cancers depend heavily on glutamine. Triple-negative breast cancer is a lea
 
 Two distinct routes may increase glutamine dependence in HER2-positive tumours. Either route may occur alone. Both may occur in the same tumour.
 
-<figure><img src="../../.gitbook/assets/glutamine_macropinocytosis_flowchart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/glutamine_macropinocytosis_flowchart.png" alt=""><figcaption><p>Two distinct routes to glutamine dependence in HER2+ tumours.</p></figcaption></figure>
 
 #### Two independent routes to glutamine dependency
 
