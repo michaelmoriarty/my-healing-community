@@ -6,6 +6,8 @@ description: >-
 
 # ReDiscover-2 (NCT06982521)
 
+\
+\
 Failed CDK4/6 inhibition drug? Looking at trials?
 
 In this trial, you may qualify for RLY-2608 + Fulvestrant or you may qualify for Capivasertib + Fulvestrant.\
