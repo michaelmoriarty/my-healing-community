@@ -17,16 +17,9 @@ This guide supports a discussion with your oncology team. It does not replace me
 {% endhint %}
 
 {% hint style="info" %}
-#### On this page
+#### Page Content
 
-* [Part 1: Trial access and treatment choices](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#part-1-trial-access-and-treatment-choices)
-* [Part 2: Understanding your PIK3CA mutation](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#part-2-understanding-your-pik3ca-mutation-while-you-decide)
-{% endhint %}
-
-### Part 1: Trial access and treatment choices
-
-{% hint style="info" %}
-#### Part 1 jump menu
+#### Part 1 Content
 
 * [The off-target problem](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#the-off-target-problem)
 * [The access wall](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#the-access-wall)
@@ -47,7 +40,20 @@ This guide supports a discussion with your oncology team. It does not replace me
   * [Before you write](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#before-you-write)
 * [Why this matters beyond one email](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#why-this-matters-beyond-one-email)
 * [Keep the trial record current](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#keep-the-trial-record-current)
+
+#### Part 2 Content
+
+* [Where you are right now](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#where-you-are-right-now)
+* [What the PIK3CA mutation does](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#what-the-pik3ca-mutation-does)
+* [Supportive questions while you decide](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#supportive-questions-while-you-decide)
+  * [Low-dose aspirin](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#low-dose-aspirin)
+  * [Celecoxib](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#celecoxib)
+  * [Boswellia serrata](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#boswellia-serrata)
+* [A simple way to frame the conversation](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#a-simple-way-to-frame-the-conversation)
+* [References](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md#references)
 {% endhint %}
+
+### Part 1: Choosing treatment and exploring trials
 
 ### The off-target problem
 
