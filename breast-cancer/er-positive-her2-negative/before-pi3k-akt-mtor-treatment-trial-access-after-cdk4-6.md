@@ -187,7 +187,9 @@ What remains unknown is whether removing palbociclib or adjusting the dose meani
 
 <details>
 
-<summary><strong>A real-world inavolisib case that matters</strong></summary>
+<summary><strong>Open the real-world inavolisib case</strong></summary>
+
+#### A real-world inavolisib case that matters
 
 Most safety figures come from large trials. Those averages do not show every individual experience.
 

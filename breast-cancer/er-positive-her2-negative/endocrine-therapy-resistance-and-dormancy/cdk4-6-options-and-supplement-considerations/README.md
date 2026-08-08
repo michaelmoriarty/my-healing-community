@@ -1264,6 +1264,8 @@ It is to understand which variable matters most first.
 
 ### Related pages in this library
 
+{% include "../../../../.gitbook/includes/pi3k-pathway-trial-access-link.md" %}
+
 * [Blood Biopsy Trial — Getting Ahead of Treatment Resistance](../blood-biopsy-trial-getting-ahead-of-treatment-resistance.md)
 * [Autophagy and Senescence in Antiestrogen Resistance](../autophagy-and-senescence-in-antiestrogen-resistance/)
 * [Neutropenia — Low White Blood Cell Count](../../../../side-effects/neutropenia-low-white-blood-cell-count.md)

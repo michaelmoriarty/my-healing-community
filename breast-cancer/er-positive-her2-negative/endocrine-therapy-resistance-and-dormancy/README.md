@@ -10,6 +10,9 @@ Use these pages together when the real question is not only **which drug comes n
   Main hub for the wider ER-positive, HER2-negative section.
 * [CDK4/6 Options and Supplement Considerations](cdk4-6-options-and-supplement-considerations/)\
   Practical comparison of palbociclib, ribociclib, and abemaciclib, including monitoring and supplement-fit questions.
+
+{% include "../../../.gitbook/includes/pi3k-pathway-trial-access-link.md" %}
+
 * [Autophagy Escape in ER-Positive Breast Cancer](autophagy-escape-in-er-positive-breast-cancer.md)\
   Why autophagy, mTOR pressure, glycolysis, and hydroxychloroquine keep coming up in this subtype.
 * [Autophagy and Senescence in Antiestrogen Resistance](autophagy-and-senescence-in-antiestrogen-resistance/)\

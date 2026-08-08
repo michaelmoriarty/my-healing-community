@@ -12,7 +12,7 @@ Failed CDK4/6 inhibition drug? Looking at trials?
 
 In this trial, you may qualify for RLY-2608 + Fulvestrant or you may qualify for Capivasertib + Fulvestrant.\
 \
-Treatment is chosen by randomisation (like a medical ‘coin toss’), so there is a chance of receiving either the new drug or the comparison treatment. \
+Treatment is chosen by randomisation (like a medical ‘coin toss’), so there is a chance of receiving either the new drug or the comparison treatment.\
 \
 If someone is allocated to the Capivasertib and doesn’t feel comfortable, they can choose to withdraw before starting any trial medication
 
@@ -33,6 +33,10 @@ International: Phase 3 study of RLY-2608 + fulvestrant for locally advanced or m
 * HR+/HER2‑ locally advanced or metastatic breast cancer
 * Presence of one or more oncogenic PIK3CA mutations, without AKT or PTEN alterations
 * Prior CDK4/6 inhibitor (within the allowed lines/settings)
+
+{% hint style="warning" %}
+Prior PI3K, AKT, or mTOR treatment excludes standard ReDiscover-2 enrollment. Read [Before PI3K/AKT/mTOR Treatment: Trial Access After CDK4/6](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md) before choosing a pathway inhibitor. It explains the access issue, alternatives to check, and questions for the trial team.
+{% endhint %}
 
 ### What is the new drug?
 
