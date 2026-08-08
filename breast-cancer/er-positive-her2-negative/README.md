@@ -79,7 +79,7 @@ The emphasis here is dormancy, therapy-induced senescence, autophagy-supported s
 * [ER-Positive, CDK4/6-Resistant, HER2-Mutant](endocrine-therapy-resistance-and-dormancy/er-positive-cdk4-6-resistant-her2-mutant.md#overview) — why HER2-negative pathology and a later HER2 mutation are not the same thing
 * [FOX Family in ER+ Metastatic Breast Cancer](fox-family-in-er+-metastatic-breast-cancer.md) — FOXA1 mutations, FOXM1 proliferation drivers, and the targeted-degradation question in ER-positive metastatic disease
 
-### When CDK4/6 inhibition fails to work.
+### When CDK4/6 inhibition stops working
 
 #### Spotlight on Clinical trials from a patients perspective
 
