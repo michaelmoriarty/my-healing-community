@@ -83,6 +83,7 @@ The emphasis here is dormancy, therapy-induced senescence, autophagy-supported s
 
 #### Spotlight on Clinical trials from a patients perspective
 
+* [Before PI3K/AKT/mTOR Treatment: Trial Access After CDK4/6](before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md) — why treatment sequencing can affect trial access, which questions to ask, and what to verify for newer PI3Kα studies
 * [ReDiscover-2 (NCT06982521)](rediscover-2-nct06982521.md) — This new drug aims to shut down the specific PI3K‑alpha mutations feeding the cancer, but leave more of the normal PI3K‑alpha alone, so you keep the benefits of this pathway being targeted with fewer blood sugar, rash and digestive side effects than earlier medicines in this class. Read our trial overview page for RLY-2608 plus fulvestrant in PIK3CA-mutant HR-positive, HER2-negative advanced breast cancer.
 
 ### Monitoring change early

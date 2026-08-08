@@ -401,6 +401,7 @@
   * [FOX Family in ER+ Metastatic Breast Cancer](breast-cancer/er-positive-her2-negative/fox-family-in-er+-metastatic-breast-cancer.md)
   * [Dormancy, Senescence, Autophagy, and Trial Context in ER+ Disease](breast-cancer/er-positive-her2-negative/dormancy-senescence-autophagy-and-trial-context-in-er+-disease.md)
   * [ReDiscover-2 (NCT06982521)](breast-cancer/er-positive-her2-negative/rediscover-2-nct06982521.md)
+  * [Before PI3K/AKT/mTOR Treatment: Trial Access After CDK4/6](breast-cancer/er-positive-her2-negative/before-pi3k-akt-mtor-treatment-trial-access-after-cdk4-6.md)
 * [Ivermectin & ER+ Breast Cancer: What the 2026 Research Actually Found](breast-cancer/ivermectin-and-er+-breast-cancer-what-the-2026-research-actually-found.md)
 * [Triple-Positive](breast-cancer/triple-positive.md)
 * [FOX Family in Triple-Negative Breast Cancer](breast-cancer/fox-family-in-triple-negative-breast-cancer/README.md)
