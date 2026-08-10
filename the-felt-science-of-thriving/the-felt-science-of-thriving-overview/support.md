@@ -54,8 +54,6 @@ Physiologically.
 
 ***
 
-{% include "../../.gitbook/includes/felt-science-of-thriving-navigation.md" %}
-
 ### The Neuroscience of Being Supported
 
 The human nervous system is a profoundly social organ.
@@ -120,7 +118,7 @@ The person inside the patient can become largely invisible.
 
 And there is sometimes a deeper, quieter barrier.
 
-The belief, formed perhaps long before the diagnosis, that needing support is weakness.
+The belief, formed perhaps long before the diagnosis, that needing support is a weakness.
 
 That self-sufficiency is the measure of strength.
 
@@ -265,8 +263,8 @@ A way of saying: _here is how you can be part of this with me._
 
 It transforms helplessness into participation.
 
-The practice of Support includes practising the ask, not just the receiving.
-
 ***
 
 → [Return to The Felt Science of Thriving](./)
+
+{% include "../../.gitbook/includes/felt-science-of-thriving-navigation.md" %}
