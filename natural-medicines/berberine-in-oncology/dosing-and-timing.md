@@ -110,7 +110,7 @@ The most practical working estimate from current human pharmacokinetic data is:
 * **200 mg DHB daily** ≈ **1000 mg daily** standard HCl
 * **300 to 400 mg DHB daily** ≈ **1500 mg daily** standard HCl
 
-This is a **working estimate**, not a validated oncology conversion rule.&#x20;
+This is a **working estimate**, not a validated oncology conversion rule.
 
 #### Liposomal berberine
 
@@ -144,7 +144,7 @@ Then assess:
 The key question is not which form is best in general.
 
 It is which exposure pattern you are trying to prioritise.\
-It's important to read the [Berberine Pharmacokentics and Metabolism page ](../egcg-in-oncology/pharmacokinetics-and-metabolism.md)
+It's important to read the [Berberine Pharmacokinetics & Metabolism page](pharmacokinetics-and-metabolism.md).
 
 #### One form is not always enough
 
@@ -152,7 +152,7 @@ It's important to read the [Berberine Pharmacokentics and Metabolism page ](../e
 * **DHB** fits systemic delivery and lower-GI-tolerance goals but without delivering the complete range anti-cancer metabolites.
 * **liposomal berberine** fits the middle ground delivers the metabolite studied in a few cancers.
 
-It's important to read the [Berberine Pharmacokentics and Metabolism page ](../egcg-in-oncology/pharmacokinetics-and-metabolism.md)
+It's important to read the [Berberine Pharmacokinetics & Metabolism page](pharmacokinetics-and-metabolism.md).
 
 #### Two forms can make sense when the goal is split
 
@@ -203,7 +203,7 @@ For now, the better question is:
 
 Those factors matter more than chasing the biggest milligram number.
 
-It's important to read the [Berberine Pharmacokentics and Metabolism page ](../egcg-in-oncology/pharmacokinetics-and-metabolism.md)
+It's important to read the [Berberine Pharmacokentics and Metabolism page](../egcg-in-oncology/pharmacokinetics-and-metabolism.md)
 
 ### Practical takeaway
 
