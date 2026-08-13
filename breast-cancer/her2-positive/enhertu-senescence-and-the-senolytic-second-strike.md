@@ -198,7 +198,7 @@ That is why combination logic keeps coming up after T-DXd.
 * **Luteolin** — this flavone inhibits **STAT3** and **NF-κB**, two transcription factors central to **SASP** maintenance and senescent-cell survival. It can reduce **IL-6** and **IL-8** output, suppress **JAK-STAT** signalling, and add anti-proliferative pressure against cells that escape senescence.
 * **Apigenin** — this flavone can promote apoptosis in senescent cells through **p53** activation and **CDK** inhibition. It also suppresses **mTOR**, which may matter for dormancy-adjacent cells that coexist with senescent survivors after T-DXd.
 * **Piperlongumine** — It is one of the most selectively cytotoxic natural senolytic compounds identified so far. It inhibits **Thioredoxin Reductase 1 (TrxR1)**, which is overexpressed in senescent and cancer cells, and drives lethal **ROS** accumulation in cells already under oxidative stress.
-* For all, expcept quercetin, **liposomal forms** are required.
+* For all, except quercetin, **liposomal forms** are required.
 
 {% hint style="warning" %}
 This remains an emerging strategy.
