@@ -207,9 +207,9 @@ And in holding it, it creates the conditions in which it can begin to shift.
 
 ### The Life Energy of Presence Guided Practices
 
-Each of the audio practices below is ten minutes long.
+The audio practices below is ten minutes long.
 
-They are designed to be used once a day for five days before moving into any other Life Energy work.
+It is designed to be used once or twice a day, before moving into any other Life Energy work.
 
 You do not need to be sitting up straight.
 
@@ -232,8 +232,7 @@ We begin not with the breath itself, like most practices do, but with the space 
 
 {% embed url="https://youtu.be/PJQygIXhluQ" %}
 
-**Practice 2** coming soon — Resting in the Quiet Space that Holds the Narrative\
-→ Link to audio
+
 
 ***
 
