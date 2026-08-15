@@ -67,7 +67,7 @@ The language the body uses to say _yes, I am playing_:
 * **Warmth spreading through the belly and heart** — often felt as a kind of inner glow or radiance, associated with endorphin release
 * **An upward pull in the corners of the mouth** — the proto-smile that arrives before laughter does, involuntary and unperformable
 * **Looseness in the shoulders and jaw** — chronic holding patterns dissolve; the body's defences soften
-* **A sense of buoyancy or weightlessness** — as if gravity has eased its grip slightly; people often describe this as feeling lighter than they have in weeks
+* **A sense of buoyancy or weightlessness** — as if gravity has eased its grip slightly; people often describe this as feeling lighter than they have in a long time
 * **Spontaneous sound** — laughter, a surprised exhale, a hum; the body generating sound without instruction
 * **Time distortion** — the felt sense that time has slowed or disappeared; you look up and an hour has passed
 * **Bright, wide eyes** — increased alertness without anxiety; the body curious, not vigilant
