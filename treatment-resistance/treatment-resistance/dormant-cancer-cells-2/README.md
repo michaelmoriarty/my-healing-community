@@ -17,3 +17,7 @@ For the autophagy-survival side of dormancy, see [Autophagy — Cancer's Escape 
 For the parallel escape route through therapy-induced senescence, see [Senescence — The Second Escape Route](../senescence-the-second-escape-route/).
 
 {% include "../../../.gitbook/includes/dormant-cancer-cells-section-navigation.md" %}
+
+{% include "../../../.gitbook/includes/site-wide-medical-disclaimer-only.md" %}
+
+{% include "../../../.gitbook/includes/site-wide-feedback-prompt.md" %}
