@@ -14,7 +14,7 @@ It means the most aggressive option is not automatically the most intelligent on
 
 > Experimental and clinical evidence suggests that, in some people, the immune system can hold tiny nests of cancer cells in a long‑term “stand‑off” called immune‑mediated dormancy or the equilibrium phase of cancer immuno-editing. In this state, immune cells (especially CD8 T cells and NK cells) apply just enough pressure to prevent growth but not enough to remove every last cell. Supporting this equilibrium — by protecting immune function, reducing chronic inflammation and stress, and avoiding unnecessary immunosuppression — can sometimes be as important as trying to eliminate every visible cell.\
 > \
-> \&#xNAN;_Cancer Dormancy: A Regulatory Role for Endogenous Immunity in Establishing and Maintaining the Tumor Dormant State._ Vaccines (Basel). 2015;3(3):597–619.\
+> _&#x43;ancer Dormancy: A Regulatory Role for Endogenous Immunity in Establishing and Maintaining the Tumor Dormant State._ Vaccines (Basel). 2015;3(3):597–619.\
 > [https://pmc.ncbi.nlm.nih.gov/articles/PMC4586469/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4586469/)
 
 ### Why standard treatment can miss the real problem

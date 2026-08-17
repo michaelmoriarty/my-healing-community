@@ -62,10 +62,4 @@ Some related pages sit beside this hub rather than inside it:
 
 ***
 
-### Current status
-
-This hub now stands on its own.
-
-More resistance pages can be added here without being mixed into side-effect navigation.
-
 {% include "../.gitbook/includes/site-wide-medical-disclaimer.md" %}
