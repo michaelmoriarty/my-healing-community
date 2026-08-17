@@ -333,4 +333,6 @@ Research Concerning the Radioprotective and Immunostimulating Effects of Deuteri
 
 {% include "../../.gitbook/includes/ddw-section-navigation.md" %}
 
+{% include "../../.gitbook/includes/site-wide-feedback-prompt.md" %}
+
 {% include "../../.gitbook/includes/site-wide-medical-disclaimer.md" %}
