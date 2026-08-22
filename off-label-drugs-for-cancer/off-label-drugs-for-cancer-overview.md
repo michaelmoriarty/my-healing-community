@@ -22,6 +22,7 @@ These topics are structured similarly to the natural-compound topics, but the fo
 ### Current off-label drug topics
 
 * [FLCC Approach to Repurposed Drugs in Cancer](flcc-approach-to-repurposed-drugs-in-cancer.md)
+* [Cimetidine / Tagamet in Oncology](cimetidine-tagamet-in-oncology.md)
 * [Mebendazole in Oncology](mebendazole-in-oncology/mebendazole-overview.md)
 * [Ivermectin in Cancer: a checklist for patients](ivermectin-in-cancer-a-checklist-for-patients.md)\
   Ivermectin in cancer: a simple checklist for a more informed look

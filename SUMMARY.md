@@ -348,6 +348,7 @@
   * [Sourcing Quality Aspirin](off-label-drugs-for-cancer/aspirin-in-oncology/sourcing-quality-aspirin.md)
   * [Immune Effects](off-label-drugs-for-cancer/aspirin-in-oncology/immune-effects.md)
 * [Off-Label and Re-Purposed Drugs Study Support Threads A–Z](off-label-drugs-for-cancer/off-label-and-re-purposed-drugs-study-support-threads-a-z.md)
+* [Cimetidine / Tagamet in Oncology](off-label-drugs-for-cancer/cimetidine-tagamet-in-oncology.md)
 
 ## Breast Cancer
 
