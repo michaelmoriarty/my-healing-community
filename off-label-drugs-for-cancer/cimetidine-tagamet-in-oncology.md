@@ -76,3 +76,18 @@ Cimetidine remains an **investigational repurposed adjunct** in oncology. It sho
 * [Cimetidine and metastasis through E-selectin blockade](https://pubmed.ncbi.nlm.nih.gov/10919677/)
 * [Perioperative cimetidine trial in colorectal cancer](https://pubmed.ncbi.nlm.nih.gov/10223557/)
 * [Cimetidine and cancer immunomodulation review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4268104/)
+
+### ER+ Breast Cancer Considerations With Cimetidine
+
+The key mechanistic point is that cimetidine inhibits estrogen clearance rather than estrogen production — it slows the enzymatic pathway (estradiol 2-hydroxylation) that breaks down circulating estrogen.
+
+If you're on tamoxifen: the cimetidine concern is real. Cimetidine is a moderate CYP2D6 inhibitor, and CYP2D6 is the enzyme that converts tamoxifen into its active metabolite, endoxifen. Reducing CYP2D6 activity can lower active drug levels of tamoxifen, potentially blunting its effectiveness in ER+ breast cancer.
+
+If you're on Lupron: the estrogen-clearance concern is much less relevant. Lupron suppresses ovarian estradiol production at the source (via the pituitary/GnRH axis), so with little to no estrogen being made upstream, there's very little substrate left for cimetidine's "clearance-inhibition" effect to act on — the drain-slowing mechanism only matters if estrogen is still being produced.
+
+Bottom line: the tamoxifen interaction is the more clinically significant flag to raise with an oncologist or pharmacist; the Lupron/estradiol-clearance interaction appears mechanistically minor by comparison.
+
+Cimetidine inhibits catechol estrogen metabolism in women\
+[https://www.sciencedirect.com/science/article/abs/pii/002604959190169W](https://www.sciencedirect.com/science/article/abs/pii/002604959190169W)
+
+<br>
