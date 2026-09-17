@@ -101,15 +101,13 @@ Discuss symptom monitoring, dose changes, functional support, and assessment of 
 
 Protein-energy intake, hydration, sleep, infection prevention, and movement as tolerated support recovery. Report fever, poor intake, diarrhoea, mucositis, or worsening neuropathy promptly.
 
-### A useful question for the oncology team
-
-> This person is receiving Abraxane with \[other agents and dates]. Could the oncology pharmacist review this exact product, dose, route, and proposed schedule? Is it needed for a documented deficiency, a defined toxicity, or general wellness? Is there a monitored alternative with stronger clinical support?
+### Prepare for oncology team review
 
 Bring these details to that review:
 
 * The complete regimen, including immunotherapy, platinum, HER2-targeted therapy, endocrine therapy, steroids, antiemetics, and growth-factor injections.
 * The Abraxane dose and schedule, such as weekly, days 1/8/15, or every three weeks.
-* The full supplement label, dose, frequency, route, relevant laboratory results, and the intended goal.
+* The full supplement label, dose, frequency, route, your relevant concerns/ results, and the intended goal.
 
 ### Bottom line
 
@@ -117,8 +115,3 @@ Abraxane primarily disrupts mitosis through microtubule stabilisation. ROS may a
 
 No selective antioxidant window has been established during active Abraxane treatment. The cautious default is normal food-based nutrition and supervised correction of genuine deficiencies. Avoid self-directed high-dose redox-active supplements unless the treating team approves the exact product and timing.
 
-### Sources
-
-* [Abraxane prescribing information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021660s049lbl.pdf)
-* [Cancer Council Australia: complementary therapies](https://www.cancercouncil.com.au/cancer-information/cancer-treatment/complementary-therapies/)
-* [American Cancer Society: dietary supplements](https://www.cancer.org/cancer/managing-cancer/making-healthy-choices/nutrition-and-physical-activity/dietary-supplements.html)
