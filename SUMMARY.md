@@ -427,6 +427,7 @@
     * [Step 4 — Typical Dosages](breast-cancer/support-groups/breast-cancer-pathways-project/step-4-typical-dosages.md)
     * [Step 5 — Sharing Your Worksheet](breast-cancer/support-groups/breast-cancer-pathways-project/step-5-sharing-your-worksheet.md)
 * [ctDNA and cfDNA in Breast Cancer: What “Low Shedding” Means](breast-cancer/ctdna-and-cfdna-in-breast-cancer-what-low-shedding-means.md)
+* [Abraxane, Oxidative Stress, and Antioxidants](breast-cancer/abraxane-oxidative-stress-and-antioxidants.md)
 
 ## Cancer Patient Community Supports
 
