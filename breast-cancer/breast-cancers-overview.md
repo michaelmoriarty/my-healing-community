@@ -58,6 +58,7 @@ It also includes the main **TNBC drug names** used in the **Triple-Negative** pa
 
 * **Doxorubicin** — **Adriamycin** and **epirubicin** — **Ellence**. Anthracyclines often paired with **cyclophosphamide** in early-stage **TNBC**.
 * **Paclitaxel** — **Taxol** and **docetaxel** — **Taxotere**. Taxanes used in neoadjuvant, adjuvant, and metastatic settings.
+* **Nab-paclitaxel** — **Abraxane**. An albumin-bound form of paclitaxel used in selected metastatic **TNBC** settings.
 * **Carboplatin** — **Paraplatin** and **cisplatin** — **Platinol**. Platinum drugs often considered in **TNBC**, especially with **BRCA1/2** or broader **HRD** context.
 
 **TNBC immunotherapy**
