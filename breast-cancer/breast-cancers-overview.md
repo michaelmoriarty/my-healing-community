@@ -87,6 +87,7 @@ It also includes the main **TNBC drug names** used in the **Triple-Negative** pa
 
 * [Bone Metastases](../bone-metastases/): Shared bone-metastasis hub across cancer types, covering standard bone-targeted therapy, integrative strategies, protocol notes, and community-informed guidance.
 * [ctDNA and cfDNA in Breast Cancer: What “Low Shedding” Means](ctdna-and-cfdna-in-breast-cancer-what-low-shedding-means.md): Plain-language guide to liquid biopsy, low shedding, and why a negative result may mean different things across breast-cancer subtypes.
+* [Abraxane, Oxidative Stress, and Antioxidants](abraxane-oxidative-stress-and-antioxidants.md): Practical guide to Abraxane’s taxane mechanism, oxidative-stress questions, and supplement considerations during treatment.
 * [Support Groups](support-groups/): Breast-cancer support groups that are not subtype-specific. Subtype-specific groups sit in their own hubs.
 * [Breast Cancer Pathways Project](support-groups/breast-cancer-pathways-project/)\
   Free worksheet downloads, access guidance, and breast cancer pathways-based information for structured protocol design discussions with your team.
